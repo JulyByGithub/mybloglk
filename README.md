@@ -1,3 +1,3 @@
 ＃mybloglk
-VuePress博客重建访问地址：
+VuePress博客搭建访问地址：
 https://julybygithub.github.io/mybloglk/
